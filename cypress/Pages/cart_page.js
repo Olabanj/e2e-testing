@@ -1,0 +1,1 @@
+export const checkOutBtn = () =>  cy.xpath("(//button[normalize-space()='Checkout'])[1]")
